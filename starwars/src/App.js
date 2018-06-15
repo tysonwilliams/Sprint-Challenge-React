@@ -40,4 +40,10 @@ class App extends Component {
   }
 }
 
+// CharacterList has a properties object
+// CharacterList Property Object
+const CharacterListProps = {
+  characters: "this.state.characters"
+};
+
 export default App;
